@@ -1,1 +1,1 @@
- [GitHub] (https://github.com/KatarzynaRuksza/tv-show-dom-project/tree/master)
+[link to Netlify](https://app.netlify.com/sites/cyf-kateruksza-tv/settings/domain)
